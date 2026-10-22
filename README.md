@@ -8,5 +8,6 @@
 | 앱 | 공개 주소 | 원본 |
 | --- | --- | --- |
 | Wakely | https://3001ssw.github.io/android-privacy/wakely/ | `3001ssw/wakely` 저장소 `docs/privacy-policy.md` |
+| Lock & Live | https://3001ssw.github.io/android-privacy/LockNLive/ | `3001ssw/Lock_N_Live` 저장소 (원본은 이 저장소) |
 
 Pages 설정: Settings → Pages → Source "Deploy from a branch", Branch `main` / `/ (root)`.
